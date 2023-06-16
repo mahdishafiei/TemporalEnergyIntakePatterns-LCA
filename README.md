@@ -7,6 +7,8 @@ By employing latent class analysis (LCA), we identified distinct temporal eating
 
 Similarly, the 'Later lunch' class demonstrated a higher likelihood of a lunch eating occasion occurring one hour after the conventional pattern. Participants following the 'Earlier breakfast' pattern displayed a reduced likelihood of obesity (adjusted odds ratio: 0.56, 95% confidence interval: 0.35, 0.95) compared to those following the 'Conventional' pattern. Conversely, no significant difference in the prevalence of obesity or overweight was observed between participants in the 'Later lunch' pattern and those in the 'Conventional' pattern. Our findings suggest an inverse association between an earlier eating pattern and the likelihood of obesity. However, it is important to consider that reverse causation may also provide a plausible explanation.
 
+https://doi.org/10.1017/S000711452300096X
+
 
 
 
