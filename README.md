@@ -2,7 +2,7 @@
 This repository contains analysis code in Mplus for a cross-sectional study to identify temporal patterns of energy intake and their association with adiposity with Latent class analysis (LCA)
 
 
-kjdysdfsdfkjsdhf
+kjsdhf
 jgjjg
 
 Our objective was to uncover temporal patterns of energy intake and examine their correlation with adiposity. To achieve this, we conducted a cross-sectional study involving 775 adults in Iran. Detailed information on eating occasions throughout the day was collected using three 24-hour dietary recalls. 
